@@ -1,2 +1,0 @@
-# CertifiedRedTeamProfessional
-CertifiedRedTeamProfessional
